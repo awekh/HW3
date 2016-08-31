@@ -1,0 +1,10 @@
+.social {
+  float:right;
+}
+.social-row{
+overflow: hidden;
+} 
+.social-row li{
+  float: left;
+      margin-left: 37px;
+}

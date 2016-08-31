@@ -1,0 +1,16 @@
+h1{
+  font:40px/40px 'Roboto-Light',sans-serif;
+  color:#ffe600;
+  letter-spacing: 2px;
+  margin: 18px 0 50px;
+}
+h2{
+  font:25px/25px 'Roboto-Regular',sans-serif;
+  color:#131316;
+  text-transform: uppercase;
+}
+h4{
+  font:15px/15px 'Roboto-Regular',sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}

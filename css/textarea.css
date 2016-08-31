@@ -1,0 +1,11 @@
+textarea {
+    width: 100%;
+    border: none;
+    padding: 15px;
+    font: 15px/23px 'Roboto-Regular',sans-serif;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    color:#fff;
+    background-color:#ffe600; 
+}

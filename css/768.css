@@ -1,0 +1,37 @@
+.container .about__title span strong {
+  margin-right: 0px;
+  display: block;
+}
+.container .about__title span strong:after {
+    display: none;
+}
+.container .about__list li{
+     width: 30%;
+         margin-bottom: 20px;
+}
+.container .header__logo {
+   padding-left: 0px; 
+    float: none;
+    margin: 0 auto 20px;
+    display: block;
+}
+.container .header__logo img{
+   margin: 0 auto;
+    display: block;
+}
+
+.header__nav {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+.header__nav-list li {
+    float: none;
+   margin-left: 0;
+    display: inline-block;}
+.row{
+  margin-bottom: 0;
+}
+.row__item {
+    width: 49%;
+    margin-bottom: 20px;}  

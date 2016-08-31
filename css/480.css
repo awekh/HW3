@@ -1,0 +1,23 @@
+.container .about__list li {
+    width: 60%;
+}
+.container .clients__list_row li {
+    margin: 0 0 50px;
+}
+.footer span {
+   
+    text-align: center;
+    float: none;
+    margin: 0 auto 20px;
+    display: block;}
+.social {
+    float: none;
+    margin: 0 auto;
+    display: block;
+}
+.social-row li {
+    float: none;
+    margin-left: 0;
+    display: inline-block;
+    margin: 0 15px;
+}

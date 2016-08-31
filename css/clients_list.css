@@ -1,0 +1,24 @@
+.clients__list{
+
+    width: 95%;
+    margin: 0 auto;}
+
+.clients__list_row{
+  width: 100%;
+  text-align: justify;
+  line-height: 0;
+}
+.clients__list_row li{
+  display: inline-block;
+  text-align: left;
+  position: relative;
+}
+
+.clients__list_row:after {
+  width: 100%;
+  height: 0px;
+  visibility: hidden;
+  overflow: hidden;
+  content: "";
+  display: inline-block;
+}

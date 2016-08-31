@@ -1,0 +1,15 @@
+button{
+  text-transform: uppercase;
+  font: 15px/15px 'Roboto-Regular',sans-serif;
+  text-align: center;
+  cursor: pointer;
+   -moz-appearance:none;
+  -webkit-appearance:none;
+  outline:none;
+  border:none;
+   transition: 0.7s all linear;
+-webkit-transition: 0.3s all linear;
+-moz-transition: 0.3s all linear;
+-ms-transition: 0.3s all linear;
+-o-transition: 0.3s all linear;
+}

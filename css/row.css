@@ -1,0 +1,28 @@
+.row{
+  width: 100%;
+  text-align: justify;
+  line-height: 0;
+  margin-bottom: 24px;
+}
+.row:after {
+  width: 100%;
+  height: 0px;
+  visibility: hidden;
+  overflow: hidden;
+  content: "";
+  display: inline-block;
+}
+
+
+.row__item{
+  width: 23%;
+  display: inline-block;
+  text-align: left;
+  position: relative;
+}
+.row__item img{
+  width: 100%;
+}
+.row__item:hover .yellow-hover{
+  display: block;
+}

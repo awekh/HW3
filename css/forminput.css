@@ -1,0 +1,14 @@
+form input {
+    width: 48%;
+    border: none;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #ffe600;
+    font: 15px/23px 'Roboto-Regular',sans-serif;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    display: inline-block;
+    float:right;
+    color:#fff;
+}

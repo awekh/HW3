@@ -1,0 +1,15 @@
+.footer{
+  width: 100%;
+      padding: 43px 15px;
+  overflow: hidden;
+  background-color: #131316;
+}
+
+
+.footer span{
+  font:13px/15px 'Roboto-Regular',sans-serif;
+  color: #ffe600;
+  text-align: left;
+  float:left;
+      margin-left: 22px;
+}

@@ -1,0 +1,31 @@
+.header{
+  padding: 35px 0 38px;
+  overflow: hidden;
+}
+.header__logo{
+  padding-left: 13px;
+  float: left;
+}
+.header__nav{
+  float:right;
+  
+}
+.header__nav-list{
+  overflow: hidden;
+  margin-top: 5px;
+}
+.header__nav-list li{
+  float:left;
+  margin-left: 3px;
+}
+.header__nav-list li a{
+  font:15px/15px 'Roboto-Regular',sans-serif;
+  text-transform: uppercase;
+  color:#131316;
+  border:1px solid transparent;
+  padding: 11px 20px 14px 22px;
+  text-align: center;
+}
+.header__nav-list li a:hover{
+  border:1px solid #ffe600;
+}
